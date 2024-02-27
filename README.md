@@ -17,5 +17,3 @@ Jupyter, Python, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn
 ## Results
 Random Forest Model has an accuracy score of 92.55% followed by the Decision Tree Model with a score of 91.16%. 
 
-## Future Goals
-Explore other machine learning models. 
